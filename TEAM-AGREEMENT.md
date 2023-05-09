@@ -4,11 +4,11 @@
 
 - What are the key strengths of each person on the team?
 
-  - Alex - 
-  - Dasha - 
-  - Davey -
+  - Alex - Organization, domain modeling, communication
+  - Dasha - Reliability, communication 
+  - Davey - XXX
   - Matt - Organization, domain modeling, disambiguating requirements, algorithmic thinking
-  - Ryan - 
+  - Ryan - Functional implementation, backend work
 
 - How can you best utilize these strengths in the execution of your project?
 
@@ -16,7 +16,7 @@
 
 - In which professional competencies do you each want to develop greater strength?
 
-  On a case-by-case basis, each person who wants to develop in certain areas can pair together with someone more experienced/comfortable on certain features in an effort to develop their skills.
+  On a case-by-case basis, each person who wants to develop in certain areas can pair together with someone more experienced/comfortable on certain features in an effort to develop their skills, or take on work solo work that would strengthen those areas.
 
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
@@ -27,10 +27,6 @@
   
   - Break off into different tables to perform daily work
 
-  - Team retro at the end of every class
-    - What everyone has completed
-    - Help needed
-
 ## Conflict Plan
 
 - What will be your group’s process to resolve conflict, when it arises?
@@ -40,7 +36,7 @@
 
 - What will your team do if one person is taking over the project and not letting the other members contribute?
 
-  Go to conflict resolution plan step 1! Everyone is on board to police this behavior in everyone else, and if it's noticed it should be communicated.
+  Go to conflict resolution plan step 1! Everyone is on board to police this behavior in everyone else, and if it's noticed it should be communicated. Do not be dismissive of other voices/opinions.
   
 - How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
 
@@ -59,20 +55,20 @@
 - What hours will you be available to communicate?
 
   - Alex:
-    - Slack messages: XXX
-    - Online: XXX
+    - Slack messages: 9am - 7pm PST
+    - Online: Class hours (gap from 2pm - 3pm PST)
   - Dasha:
-    - Slack messages: XXX
-    - Online: XXX
+    - Slack messages: 9am - 7pm PST
+    - Online: Class hours
   - Davey:
     - Slack messages: XXX
     - Online: XXX
   - Matt:
-    - Slack messages: weekdays and weekends 8am - 8pm PST (except 12pm -3pm PST Sunday)
-    - Online: weekdays and weekends 8am - 8pm PST (except 12pm -3pm PST Sunday)
+    - Slack messages: weekdays and weekends 8am - 8pm PST (except 12pm - 3pm PST Sunday)
+    - Online: weekdays and weekends 8am - 8pm PST (gap for lunch/dog walk, except 12pm - 3pm PST Sunday)
   - Ryan:
-    - Slack messages: XXX
-    - Online: XXX
+    - Slack messages: 9am - 7pm PST
+    - Online: Class hours (gap for lunch/exercise for an hour or so)
 
 - What platforms will you use to communicate (ie. Slack, phone …)?
   
@@ -84,7 +80,7 @@
 
 - What is your plan if you start to fall behind?
 
-  Bring it up in the daily standup, ask for help (as individuals). As a group, elevate and ask a TA or Roger for advice (if we can't figure out solutions).
+  Bring it up in the daily standup, ask for help (as individuals). As a group, elevate and ask a TA or Rey for advice (if we can't figure out solutions).
 
 - How will you communicate after hours and on the weekend?
 
@@ -92,7 +88,7 @@
 
 - What is your strategy for ensuring everyone’s voice is heard?
 
-  Daily standup, retro and encouragement
+  Daily standup and encouragement. Do not be dismissive of other voices/opinions.
 
 - How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
@@ -102,7 +98,7 @@
 
 - How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 
-  Daily standups and retros with project management tool as guidepost
+  Daily standups with project management tool as guidepost
 
 - What project management tool will be used?
 
@@ -119,8 +115,9 @@
   GitHub Organization
 
 - What is your Git flow?
-
-  Have a main branch, dev branch (where all work will be merged first), and personal branches. Pull down before each work session and ACP often.
+  - Have a main branch, staging branch (where all work will be merged first), and personal branches.
+  - Reviews performed at the beginning of the day 
+  - Pull down before each work session after reviews are merged, and ACP often. **Everyone rebase from staging at the beginning of the day!**
 
 - Will you be using a PR review workflow?
 
@@ -138,7 +135,7 @@ If so, consider:
 
 - How often will you merge?
 
-  2 times a class session at minimum (depending on amount of work complete). At the end of class for sure.
+  1 merge at the end of class.
 
 - How will you communicate that it’s time to merge?
 
