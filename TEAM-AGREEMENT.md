@@ -5,7 +5,7 @@
 - What are the key strengths of each person on the team?
 
   - Alex - Organization, domain modeling, communication
-  - Dasha - Reliability, communication 
+  - Dasha - Reliability, communication
   - Davey - XXX
   - Matt - Organization, domain modeling, disambiguating requirements, algorithmic thinking
   - Ryan - Functional implementation, backend work
@@ -116,7 +116,7 @@
 
 - What is your Git flow?
   - Have a main branch, staging branch (where all work will be merged first), and personal branches.
-  - Reviews performed at the beginning of the day 
+  - Reviews performed at the beginning of the day
   - Pull down before each work session after reviews are merged, and ACP often. **Everyone rebase from staging at the beginning of the day!**
 
 - Will you be using a PR review workflow?
