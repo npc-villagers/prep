@@ -12,23 +12,33 @@ So what are you waiting for? Join today and experience a whole new world of camp
 
 ### IN
 
-
+* User logs in and has access to their NPC Village
+* Form to give the basic info that will be sent to Open AI that will generate a character
+* Newly generated character displays on the page and can be saved or manually edited
+* Exisiting characters in the the village can be edited or deleted
 
 ### OUT
 
-- XXX
+* Cannot interact with Open AI with multiple requests
+* Cannot edit what Open AI gives unless it is tracked down
 
 ### Minimum Viable Product
 
-- XXX
+* A user is able to create an account to save their favorite NPCs
+* A user can request a generated NPC based off of a number of criteria, e.g., species, profession, alignment, gender, campaign setting type
+* A user can edit any property of a particular NPC
 
 ### Stretch Goals
 
-- XXX
+* A user can group their saved NPCs into different groups and view their groups in their "Village"
+* Incoproate DALLE to generate NPC character images
+* Incorporate Cyutoscape.js in the My Village page for visualization of NPC connections
 
 ## Functional Requirements
 
-1. XXX
+* A user can sign up to create a "village."
+* The user can create characters within the village
+* The user can edit the info for each character or delete character if it is not needed anymore
 
 ### Data Flow
 
@@ -40,10 +50,12 @@ This contains the ins/outs, functional requirements, and data flow of the app
 
 ## Non-Functional Requirements
 
-1. Security
-
-    XXX
-
-2. Usability
-
-    XXX
+* Security
+    * Users that are logged in cannot access the village of other users
+    * Implement cross-site scripting to prevent site injections
+    * Implement Open AI moderation endpoint to enforce proper usage
+ 
+* Testing
+    * Implement unit testing to ensure proper function on individual methods and objects
+    * Integration tests to ensure different parts of the application work together as expected
+    * Test to ensure data from Open AI returns as expected
