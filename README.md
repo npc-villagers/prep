@@ -4,13 +4,25 @@ Introducing NPC Village - your ultimate tool for Dungeons and Dragons campaign m
 
 No more spending countless hours crafting characters and their intricate backstories. NPC Village, powered by the advanced AI of ChatGPT, makes it a cinch to create compelling characters that enhance your campaign and captivate your players. Whether you need a villainous mastermind, a cryptic oracle, or a humble tavern-keeper, our platform has you covered.
 
-So what are you waiting for? Join today and experience a whole new world of campaign creation!"
+So what are you waiting for? Join today and experience a whole new world of campaign creation!
 
 ## Wireframes of NPC Village
 
 ### Home
 
 ![Home wireframe](XXX)
+
+### Login
+
+![Login wireframe](XXX)
+
+### Signup
+
+![Signup wireframe](XXX)
+
+### My Profile
+
+![My Village wireframe](XXX)
 
 ### Create NPC
 
@@ -30,11 +42,11 @@ So what are you waiting for? Join today and experience a whole new world of camp
 
 ## Domain Model
 
-![Domain Model of NPC Village](XXX)
+![Domain Model of NPC Village](images\npc-village-domain-model.png)
 
 ## Database Schema
 
-![Database Schema of NPC Village](XXX)
+![Database Schema of NPC Village](images\npc-village-database-schema.png)
 
 ## Team Members
 
