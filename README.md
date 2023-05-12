@@ -10,31 +10,31 @@ So what are you waiting for? Join today and experience a whole new world of camp
 
 ### Home
 
-![Home wireframe](XXX)
+![Home wireframe](images/home-page.png)
 
 ### Login
 
-![Login wireframe](XXX)
+![Login wireframe](images/login-page.png)
 
 ### Signup
 
-![Signup wireframe](XXX)
+![Signup wireframe](images/signup-page.png)
 
 ### My Profile
 
-![My Village wireframe](XXX)
+![My Village wireframe](images/my-village-page.png)
 
 ### Create NPC
 
-![Create NPC wireframe](XXX)
+![Create NPC wireframe](images/create-npc-page.png)
 
 ### My Village
 
-![My Village wireframe](XXX)
+![My Village wireframe](images/my-village-page.png)
 
 ### Our Team Page
 
-![Our Team wireframe](XXX)
+![Our Team wireframe](images/our-team-page.png)
 
 ## Project Management
 
@@ -42,11 +42,11 @@ So what are you waiting for? Join today and experience a whole new world of camp
 
 ## Domain Model
 
-![Domain Model of NPC Village](images\npc-village-domain-model.png)
+![Domain Model of NPC Village](images/npc-village-domain-model.png)
 
 ## Database Schema
 
-![Database Schema of NPC Village](images\npc-village-database-schema.png)
+![Database Schema of NPC Village](images/npc-village-database-schema.png)
 
 ## Team Members
 

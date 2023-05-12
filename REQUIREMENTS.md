@@ -34,9 +34,9 @@ So what are you waiting for? Join today and experience a whole new world of camp
 
 This contains the ins/outs, functional requirements, and data flow of the app
 
-![Domain Model of NPC Village](images\npc-village-domain-model.png)
+![Domain Model of NPC Village](images/npc-village-domain-model.png)
 
-![Database Schema of NPC Village](images\npc-village-database-schema.png)
+![Database Schema of NPC Village](images/npc-village-database-schema.png)
 
 ## Non-Functional Requirements
 
