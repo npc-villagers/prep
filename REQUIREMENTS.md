@@ -12,7 +12,7 @@ So what are you waiting for? Join today and experience a whole new world of camp
 
 ### IN
 
-- XXX
+
 
 ### OUT
 
