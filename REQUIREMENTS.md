@@ -31,12 +31,12 @@ So what are you waiting for? Join today and experience a whole new world of camp
 ### Stretch Goals
 
 * A user can group their saved NPCs into different groups and view their groups in their "Village"
-* Incoproate DALLE to generate NPC character images
-* Incorporate Cyutoscape.js in the My Village page for visualization of NPC connections
+* Incoproate DALLE to generate NPC portrait images
+* Incorporate Cytoscape.js in the My Village page for visualization of NPC connections
 
 ## Functional Requirements
 
-* A user can sign up to create a "village."
+* A user can sign up to create a "village".
 * The user can create characters within the village
 * The user can edit the info for each character or delete character if it is not needed anymore
 
@@ -52,8 +52,8 @@ This contains the ins/outs, functional requirements, and data flow of the app
 
 * Security
     * Users that are logged in cannot access the village of other users
-    * Implement cross-site scripting to prevent site injections
-    * Implement Open AI moderation endpoint to enforce proper usage
+    * Implement WebSecurity to prevent cross-site scripting and SQL injections
+    * Implement Open AI moderations endpoint to enforce proper usage
  
 * Testing
     * Implement unit testing to ensure proper function on individual methods and objects
