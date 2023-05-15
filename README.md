@@ -22,7 +22,7 @@ So what are you waiting for? Join today and experience a whole new world of camp
 
 ### My Profile
 
-![My Village wireframe](images/my-village-page.png)
+![My Village wireframe](images/my-profile-page.png)
 
 ### Create NPC
 
